@@ -17,9 +17,7 @@
       </div>
     </div>
     <div class="ml-auto flex gap-2">
-      <a
-        href="https://discord.com/oauth2/authorize?client_id=1215815540803895378&permissions=277025442880&scope=bot"
-      >
+      <a href="https://add.kaabot.org">
         <button class="bg-green-600 font-semibold text-white">
           <Icon icon="fluent:add-12-filled" /> Add
         </button></a

@@ -13,11 +13,13 @@
     href="https://github.com/mblouka/kaabot">repository</a
   >. You can add the official instance to your Discord guild by pressing the "Add" button above or
   clicking
-  <a
-    href="https://discord.com/oauth2/authorize?client_id=1215815540803895378&permissions=277025442880&scope=bot"
-  >
-    here</a
-  >, but you may also self-host your own instance of the bot instead.
+  <a href="https://add.kaabot.org"> here</a>, but you may also self-host your own instance of the
+  bot instead.
+</p>
+
+<h3>Community</h3>
+<p>
+  You can join Kaabot's official Discord guild <a href="https://discord.kaabot.org">here</a>.
 </p>
 
 <h3>Cheat sheet</h3>
